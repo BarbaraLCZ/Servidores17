@@ -1,2 +1,3 @@
-# Servidores17
-Actividad 17 de servidores unidad 2
+1. Inicio
+2. Leer datos
+3. Fin.
